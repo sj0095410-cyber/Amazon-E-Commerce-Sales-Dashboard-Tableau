@@ -86,8 +86,8 @@ Key fields used:
 amazon-e-commerce-sales-dashboard-tableau/
 │
 ├── Dashboard Screenshot.png
-├── Amazon Sales Dashboard.twbx
-├── Amazon Sale Report.csv
+├── Amazon E-Commerce Sales Dashboard.twbx
+├── Amazon E-Commerce Sale Report.csv
 └── README.md
 ```
 
