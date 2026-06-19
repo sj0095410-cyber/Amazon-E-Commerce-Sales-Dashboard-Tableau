@@ -90,7 +90,11 @@ amazon-e-commerce-sales-dashboard-tableau/
 ├── Amazon E-Commerce Sale Report.csv
 └── README.md
 ```
+## Live Dashboard
 
+View the interactive dashboard on Tableau Public:
+
+[Tableau Public Dashboard](https://public.tableau.com/views/TableauAmazonE-commerceSalesDashboard/AmazonSalesDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 ---
 
 ## GitHub Profile
